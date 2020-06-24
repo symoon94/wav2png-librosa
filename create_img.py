@@ -21,7 +21,6 @@ for mp3 in mp3_list:
 
 
 # wav to png
-DIR_PATH = "./sample_data/"
 WAV_PATH = DIR_PATH + "*.wav"
 OUT_PATH = "./image/"
 
